@@ -1,0 +1,11 @@
+public class FIrst_class
+{
+	public static void main(String[] args)
+	{
+		static int k=10;
+		int result;
+		int a=10;
+		k=a*k;
+		System.out.println(k)
+	}
+}
